@@ -48,8 +48,8 @@ Practice frontend development
 Showcase UI/UX and layout skills
 
 Serve as a starter landing page for AI or SaaS products
+```
 
 🌐 Live Demo
 You can view the live demo via GitHub Pages:
-https://erenkahramanoglu.github.io/hero-son-modern-AI-landing-page/
-
+ https://erenkahramanoglu.github.io/hero-son-modern-AI-landing-page/
